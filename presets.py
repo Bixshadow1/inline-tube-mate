@@ -44,7 +44,7 @@ Youtube Downloader and Searcher 𝙃𝙚𝙡𝙥:
     CHECKING_LINK = "⏳ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭... ⏳"
     DOWNLOAD_START = "𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠... 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 !"
     UPLOAD_START = "𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦..."
-    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 !"
+    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 \n  ! Try with @uDownMobot!"
     CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
     SEND_TEXT = "<b>Processing...</b>\n<i>This message will automatically disappear when the broadcasting is finished</i> "
     REPLY_ERROR = "<i>Use this command as a replay to any telegram message with out any spaces.</i>"
