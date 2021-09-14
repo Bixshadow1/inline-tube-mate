@@ -18,7 +18,7 @@ Youtube Downloader and Searcher 𝙃𝙚𝙡𝙥:
     NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
     DESCRIPTION = "Duration: {} || {}"
     NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
+    DEFAULT_TITLE = "Bots Collection"
     DEFAULT_THUMB_URL = "https://telegra.ph/file/01de777957d01d55903f4.jpg"
     DEFAULT_LINK = "https://t.me/mening_botlarim"
     DEFAULT_DESCRIPTION = "Our channel"
